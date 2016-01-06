@@ -1,2 +1,2 @@
 # hello-world
-my hello world
+lambcolt's first github project
